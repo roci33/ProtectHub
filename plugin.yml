@@ -1,0 +1,11 @@
+name: ProtectHub
+authors:
+  - roci33
+  - Vale914
+version: 1.0.0
+api: [3.0.0]
+main: Roci33\ProtectHub\Main
+permissions:
+  primelobby.bypass:
+    default: op
+    description: "Bypass system of auto-protect"

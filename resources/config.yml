@@ -1,0 +1,25 @@
+---
+#Choose the world name of Hub!
+Hub: "world"
+
+#List of events that can be activated / deactivated at the hub
+
+#If this event is disabled (off) as soon as a player join the server it will teleport to the hub
+JoinHub: "off"
+#If this event is disabled (off) as soon as a player dies, it will teleport to the hub
+DeathHub: "off"
+#If this event is disabled (off), it will not be possible to place blocks on the hub
+Place block: "off"
+#If this event is disabled (off), it will not be possible to Break blocks on the hub
+Break Block: "off"
+# If this event is disabled (off), PvP will be disabled at the hub
+PvP: "off"
+#If this event is disabled (off) hunger will not go down at the hub
+Hunger: "off"
+# If this event is disabled (off) it will not be possible to place water / lava at the hub
+Place water/lava: "off"
+# If this event is disabled (off), it will not be possible to jump into the void at the hub
+Void: "off"
+
+
+...
